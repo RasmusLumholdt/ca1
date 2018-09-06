@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700,100);
 
 #container {
-    width: 70%;
+    width: 90%;
     background-color: aqua;
     margin: 0 auto;
-    height: 400px;
+    height: 900px;
 }
 
 a {
@@ -37,11 +37,17 @@ p {
     margin-left: 100px;
     
 }
+.profiles ul {
+    width: 70%;
+    margin: auto;
+    
+}
 
 .profiles{
     height: 250px;
     width: 100%;
     display: block;
+    
 }
 
 #links li {
@@ -56,4 +62,6 @@ p {
     
     display: block;
 }
+
+
 
